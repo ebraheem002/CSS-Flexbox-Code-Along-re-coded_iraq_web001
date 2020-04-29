@@ -21,6 +21,17 @@ main {
   width: 100px;
   background-color: blue;
 }
+
+#pink{
+  height: 100px;
+  width: 100px;
+  background-color: pink;
+}
+#red{
+  height: 100px;
+  width: 100px;
+  background-color: red;
+}
 footer {
   background-color: #DAEEEF;
   height: 100%;
