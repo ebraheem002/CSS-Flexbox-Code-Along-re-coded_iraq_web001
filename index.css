@@ -17,8 +17,8 @@ main {
   height: 100%;
 }
 #blue{
-  height: 100px;
-  width: auto;
+  height: auto;
+  width: 100px;
   background-color: blue;
 }
 footer {
