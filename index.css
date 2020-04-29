@@ -19,8 +19,7 @@ main {
   
 }
 #blue{
-  height: 100px;
-  width: 100px;
+  
   background-color: blue;
   align-self: flex-end;
 }
