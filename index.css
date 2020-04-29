@@ -21,7 +21,7 @@ main {
   height: 100px;
   width: 100px;
   background-color: blue;
-  align-self: flex-end
+  align-self: flex-end;
 }
 
 #pink{
